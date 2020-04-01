@@ -1,0 +1,6 @@
+[23-Mar-2020 23:49:49 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/r2wsmm203wu2/public_html/claseTecWeb/chavarria/frontend/index.php on line 66
+[23-Mar-2020 23:49:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/r2wsmm203wu2/public_html/claseTecWeb/chavarria/frontend/index.php on line 67
+[25-Mar-2020 23:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function inclue() in /home/r2wsmm203wu2/public_html/claseTecWeb/chavarria/frontend/pelicula.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/r2wsmm203wu2/public_html/claseTecWeb/chavarria/frontend/pelicula.php on line 5
